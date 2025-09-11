@@ -22,7 +22,8 @@ author: Laela Clark
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - CS 103: "https://glow.williams.edu/courses/7526173"
+    - CS 103 Glow: "https://glow.williams.edu/courses/7526173"
+    - Markdown Cheetsheet: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
 #   - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
