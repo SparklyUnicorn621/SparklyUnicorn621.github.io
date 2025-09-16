@@ -4,7 +4,7 @@ title: Facts About Me
 subtitle: Things to Know About me (And a boring fact)
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Mochi-Gracie.heic
 tags: [funfacts]
 author: Laela Clark
 ---
