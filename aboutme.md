@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I want to take this class
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Have you ever seen or imagined clothes that glow with colorful patterns? As a kid, my dad gave me a light-up teddy bear and it’s still my favorite stuffy to this day, which sparked my fascination with electronic textiles. I'm also a sewing nut— so much so that I dragged my machine all the way up from Nashville. The only problem is that I don’t know the first thing about coding to add tech like LEDs or sensors to my projects and without those skills, my ideas just kind of float around in my brain. This is why I’m super excited to take CS 103 so I can pick up some basics and turn my ideas into reality.
