@@ -3,7 +3,7 @@ layout: post
 title: Facts About Me
 subtitle: Things to Know About me (And a boring fact)
 cover-img: /assets/img/Mochi_Gracie2.png
-thumbnail-img: /assets/img/Mochi.jpeg
+thumbnail-img: /assets/img/Mochi2.jpeg
 share-img: /assets/img/Mochi_Gracie2.png
 tags: [funfacts]
 author: Laela Clark
