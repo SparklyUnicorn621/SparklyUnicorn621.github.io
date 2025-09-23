@@ -2,9 +2,9 @@
 layout: post
 title: Extra Credit
 subtitle: Hello Modular World
-cover-img: /assets/img/Mochi_Gracie2.png
-thumbnail-img: /assets/img/Mochi2.jpeg
-share-img: /assets/img/Mochi_Gracie2.png
+cover-img: /assets/img/heart.png
+thumbnail-img: /assets/img/heart.jpeg
+share-img: /assets/img/heart.png
 tags: [homework, extra_credit]
 author: Laela Clark
 ---
