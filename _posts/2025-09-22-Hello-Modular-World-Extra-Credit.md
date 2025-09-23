@@ -3,7 +3,7 @@ layout: post
 title: Extra Credit
 subtitle: Hello Modular World
 cover-img: /assets/img/heart.png
-thumbnail-img: /assets/img/heart.jpeg
+thumbnail-img: /assets/img/heart.png
 share-img: /assets/img/heart.png
 tags: [homework, extra_credit]
 author: Laela Clark
