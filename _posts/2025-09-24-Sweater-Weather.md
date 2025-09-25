@@ -5,7 +5,7 @@ subtitle: Code to Determine What to Wear Based on Temp
 cover-img: /assets/img/sweaterCode.png
 thumbnail-img: /assets/img/sweaterCode.png
 share-img: /assets/img/sweaterCode.png
-tags: [homework, extra_credit]
+tags: [homework]
 author: Laela Clark
 ---
 
