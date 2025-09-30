@@ -27,8 +27,8 @@ This is the back:
 
  This is my paper prototype:
 
-![Crepe](/assets/img/crepe.jpg)
+![PaperPrototype](/assets/img/PaperProtoPC.jpeg)
 
 This is my aligator clips prototype:
 
-![Crepe](/assets/img/crepe.jpg)
+![AligatorPrototype](/assets/img/AligatorClipPC.jpeg)
