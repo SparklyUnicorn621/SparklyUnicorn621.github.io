@@ -19,11 +19,11 @@ Some tips I would give to my past self are to use shorter conductive thread beca
 
 This is the front:
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Front](https://beautifuljekyll.com/assets/img/PlushyFront.jpeg)
 
 This is the back:
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Back](https://beautifuljekyll.com/assets/img/PlushyBack.jpeg)
 
  This is my paper prototype:
 
