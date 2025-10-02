@@ -2,6 +2,7 @@
 layout: post
 title: Plushy Redux
 subtitle: Code to Simulate Circuit Plushy Lights
+thumbnail-img: /assets/img/PlushyRedux.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [homework, code]
