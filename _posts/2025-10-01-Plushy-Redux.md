@@ -2,9 +2,9 @@
 layout: post
 title: Plushy Redux
 subtitle: Code to Simulate the Plushy Circuits
-cover-img: /assets/img/sweaterCode.png
-thumbnail-img: /assets/img/sweaterCode.png
-share-img: /assets/img/sweaterCode.png
+cover-img: /assets/img/PlushyRedux.png
+thumbnail-img: /assets/img/PlushyRedux.png
+share-img: /assets/img/PlushyRedux.png
 tags: [homework, code]
 author: Laela Clark
 ---
