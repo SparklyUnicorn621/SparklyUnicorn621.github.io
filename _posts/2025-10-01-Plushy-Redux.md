@@ -14,9 +14,6 @@ This program is supposed to simulate the button and switch from our Circuit Plus
 
 One tip I would give my past self is to just write print statements for each led rather then spend 30 minutes debating on whether or not it was nececary because all the leds would either be ON or OFF and there was no situation in which this code can output one light being on while the others off.
 
-## Here are my photos!
-
-
-This is the output:
+## This is the output:
 
 ![Front](/assets/img/PlushyRedux.png)
