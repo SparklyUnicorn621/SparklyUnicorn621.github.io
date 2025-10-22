@@ -2,7 +2,7 @@
 layout: post
 title: Separate Sparklies Mid-Semester Project 1
 subtitle: State Based Code to Mimic Different Fireflies in Separate Files
-thumbnail-img: /assets/img/HomemadeSwitchesFrontOn.jpeg
+thumbnail-img: /assets/img/bigDipper.jpeg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [homework, arduino]
@@ -17,12 +17,12 @@ One tip I would give my past self is to just write my arduino code/make my files
 
 ## This is the Flash Bulb:
 
-![Front](/assets/img/HomemadeSwitchesFrontOn.jpeg)
+![Front](/assets/img/flashBulb.jpeg)
 
 ## This is the Big Dipper:
 
-![Front](/assets/img/HomemadeSwitchesFrontBack.jpeg)
+![Front](/assets/img/bigDipper.jpeg)
 
-## This is the Synchonous:
+## This is the Synchronous:
 
-![Front](/assets/img/HomemadeSwitches.jpeg)
+![Front](/assets/img/synchronus.jpeg)
