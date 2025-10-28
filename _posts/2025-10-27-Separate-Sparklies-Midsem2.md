@@ -2,7 +2,7 @@
 layout: post
 title: Separate Sparklies Mid-Semester Project 2
 subtitle: Combining 3 Separate State Based Programs Into 1
-thumbnail-img: /assets/img/bigDipper.jpeg
+thumbnail-img: /assets/img/midsem2.jpeg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [homework, arduino]
@@ -17,4 +17,4 @@ One tip I would give my past self is to give myself more time to try and figure 
 
 ## This is a photo of the multiple firefly lights blinking simultaneously:
 
-![Front](/assets/img/flashBulb.jpeg)
+![Front](/assets/img/midsem2.jpeg)
