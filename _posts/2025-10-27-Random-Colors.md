@@ -2,7 +2,7 @@
 layout: post
 title: Random Colors
 subtitle: A Program That Changes Light Colors Everytime I Press a Button
-thumbnail-img: /assets/img/bigDipper.jpeg
+thumbnail-img: /assets/img/randomColors.jpeg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [homework, arduino]
@@ -17,4 +17,4 @@ One tip I would give my past self is to give myself more time to try and figure 
 
 ## This is a photo of One Random Color Light:
 
-![Front](/assets/img/flashBulb.jpeg)
+![Front](/assets/img/randomColors.jpeg)
