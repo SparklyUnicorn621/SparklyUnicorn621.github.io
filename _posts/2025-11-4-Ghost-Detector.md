@@ -22,3 +22,7 @@ One tip I would give my past self is to use serial print to see what temperature
 ## This is when it is "Dark" but not "Cold" (covering both light and temp sensors with my hand):
 
 ![Front](/assets/img/GhostDetector2.jpeg)
+
+## This is when it is "Cold" but not "Dark" (not covering either sensor):
+
+![Front](/assets/img/GhostDetector2.jpeg)
