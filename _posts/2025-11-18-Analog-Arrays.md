@@ -15,6 +15,6 @@ In this project, the goal was to create program that randomly turns on or off PW
 
 One tip I would give my past self is to not get over confident and to make sure to write the code piece by piece and test it as I go instead of writing everything all at once so that it is easier to debug as I go instead of having to go back and try to figure out where I had gone wrong.
 
-## This is the Blinking Lights:
+## This is a Photo of the  Random Blinking Lights:
 
 ![Front](/assets/img/arrays.jpeg)
