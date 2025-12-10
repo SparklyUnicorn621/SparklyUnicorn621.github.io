@@ -2,7 +2,7 @@
 layout: post
 title: Light-up Teddy Bear
 subtitle: Final Project Report
-thumbnail-img: /assets/img/FinalBearProto.jpg
+thumbnail-img: /assets/img/FinalBear.jpeg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [homework, arduino, code, sewing]
@@ -62,20 +62,20 @@ After testing with alligator clips, I revised my design to use soldered wire con
 ## Alligator Clip Prototype
 
 ### In the Dark
-![Front](/assets/img/FinalBearProto.jpg)
+![Front](/assets/img/FBearA1.jpeg)
 
 ### With the Button Pressed
-![Front](/assets/img/FinalBearProto.jpg)
+![Front](/assets/img/FBearA2.jpeg)
 
 
 ## Final Working Project
 
 ### In the Dark
-![Front](/assets/img/FinalBearProto.jpg)
-![Front](/assets/img/FinalBearProto.jpg)
+![Front](/assets/img/Bear1.jpeg)
+![Front](/assets/img/Bear2.jpeg)
 
 ### With Button Pressed
-![Front](/assets/img/FinalBearProto.jpg)
+![Front](/assets/img/Bear3.jpeg)
 
 ## 3 Tips to My Past Self
 
@@ -97,4 +97,4 @@ I soldered all my connections (which was really cool to learn and definitely mad
 - Teddy bear pattern: [https://www.howjoyful.com/howjoyful-bear-tutorial-and-pattern/](https://www.howjoyful.com/howjoyful-bear-tutorial-and-pattern/)
 - Youtube video reference for sewing the teddy bear patterm: [https://www.youtube.com/watch?v=e_6qTxB1wQA](https://www.youtube.com/watch?v=e_6qTxB1wQA)
 - LilyPad hookup guide for paper prototype components: [https://learn.sparkfun.com/tutorials/lilypad-light-sensor-v2-hookup-guide](https://learn.sparkfun.com/tutorials/lilypad-protosnap-plus-hookup-guide/all)
-- Course lecture slides and POGIL activities (CSCI 103, Prof. Iris Howley)
+- Course lecture slides and POGIL activities
