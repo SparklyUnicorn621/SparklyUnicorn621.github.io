@@ -45,6 +45,7 @@ The bear has two modes of operation:
 - Stuffing (poly-fil)
 - Black stuffed animal eyes and nose
 - Velcro
+- satin ribbon (for the bow)
 
 
 ## Paper Prototypes
