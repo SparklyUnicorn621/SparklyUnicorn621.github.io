@@ -86,7 +86,7 @@ My life would have been SO much easier if I'd used felt or something similar, bu
 
 ### 2. BUY CHALK. Seriously, just buy chalk.
 
-I had taken my fabric chalk to campus with me, so when I started tracing and cutting out the pieces over thanksgiving, I used this blue pen/marker instead. Big mistake. My fingers were stained blue for DAYS. Every time I touched the outlines to sew the seams together—even days later—my fingers kept getting stained blue all over again. Fabric chalk works really well and doesn't turn you into a Smurf. Learn from my mistakes.
+I had taken my fabric chalk to campus with me, so when I started tracing and cutting out the pieces at home over thanksgiving, I used this blue pen/marker instead. Big mistake. My fingers were stained blue for DAYS. Every time I touched the outlines to sew the seams together—even days later—my fingers kept getting stained blue all over again. Fabric chalk works really well and doesn't turn you into a Smurf. Learn from my mistakes.
 
 ### 3. Double check your velcro placement BEFORE sewing it down.
 
