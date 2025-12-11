@@ -99,3 +99,4 @@ I soldered all my connections (which was really cool to learn and definitely mad
 - Youtube video reference for sewing the teddy bear patterm: [https://www.youtube.com/watch?v=e_6qTxB1wQA](https://www.youtube.com/watch?v=e_6qTxB1wQA)
 - LilyPad hookup guide for paper prototype components: [https://learn.sparkfun.com/tutorials/lilypad-light-sensor-v2-hookup-guide](https://learn.sparkfun.com/tutorials/lilypad-protosnap-plus-hookup-guide/all)
 - Course lecture slides and POGIL activities
+- Markdown Cheatsheet: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
